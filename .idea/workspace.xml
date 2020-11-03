@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e540264-5e96-4d2b-ad0a-c20e4dd50be7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jer7gXH7xtlQhwMayWaEE5IDIS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.SupplierExample">
+    <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.BiFunctionExample" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.BinaryOperatorExample" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.FunctionExample" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.FunctionExample2" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupplierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.SupplierExample" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SupplierExample" />
+        <item itemvalue="Application.BinaryOperatorExample" />
+        <item itemvalue="Application.BiFunctionExample" />
+        <item itemvalue="Application.FunctionExample2" />
+        <item itemvalue="Application.FunctionExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e540264-5e96-4d2b-ad0a-c20e4dd50be7" name="Default Changelist" comment="" />
+      <created>1604175233302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604175233302</updated>
+      <workItem from="1604175235865" duration="2863000" />
+      <workItem from="1604218656993" duration="11667000" />
+      <workItem from="1604427363627" duration="5544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1604175249504">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.826@0.0.1536.826" timestamp="1604175249504" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1604176745489">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1604176745489" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604220534669">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1604220534669" />
+    <state width="1492" height="173" key="GridCell.Tab.0.bottom" timestamp="1604432873217">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="173" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
+    <state width="1492" height="173" key="GridCell.Tab.0.center" timestamp="1604432873217">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="173" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
+    <state width="1492" height="173" key="GridCell.Tab.0.left" timestamp="1604432873217">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="173" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
+    <state width="1492" height="173" key="GridCell.Tab.0.right" timestamp="1604432873217">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="173" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom" timestamp="1604225027175">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.bottom/0.0.1536.826@0.0.1536.826" timestamp="1604225027175" />
+    <state width="1492" height="256" key="GridCell.Tab.1.center" timestamp="1604225027175">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.center/0.0.1536.826@0.0.1536.826" timestamp="1604225027175" />
+    <state width="1492" height="256" key="GridCell.Tab.1.left" timestamp="1604225027175">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.left/0.0.1536.826@0.0.1536.826" timestamp="1604225027175" />
+    <state width="1492" height="256" key="GridCell.Tab.1.right" timestamp="1604225027175">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1492" height="256" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1604225027175" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1604427367492">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.826@0.0.1536.826" timestamp="1604427367492" />
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup" timestamp="1604220422863">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="431" y="147" width="672" height="678" key="search.everywhere.popup/0.0.1536.826@0.0.1536.826" timestamp="1604220422863" />
+  </component>
+</project>
