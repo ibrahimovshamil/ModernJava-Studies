@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e540264-5e96-4d2b-ad0a-c20e4dd50be7" name="Default Changelist" comment="" />
+    <list default="true" id="3e540264-5e96-4d2b-ad0a-c20e4dd50be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jer7gXH7xtlQhwMayWaEE5IDIS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,13 +30,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.SupplierExample">
+  <component name="RunManager" selected="Application.VaribaleScope">
     <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.BiFunctionExample" />
       <module name="ModernJava" />
@@ -45,19 +55,6 @@
     </configuration>
     <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.BinaryOperatorExample" />
-      <module name="ModernJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topic.funcprogramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.FunctionExample" />
       <module name="ModernJava" />
       <extension name="coverage">
         <pattern>
@@ -95,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VaribaleScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topic.funcprogramming.VaribaleScope" />
+      <module name="ModernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="topic.funcprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VaribaleScope" />
         <item itemvalue="Application.SupplierExample" />
         <item itemvalue="Application.BinaryOperatorExample" />
         <item itemvalue="Application.BiFunctionExample" />
         <item itemvalue="Application.FunctionExample2" />
-        <item itemvalue="Application.FunctionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +140,7 @@
       <workItem from="1604175235865" duration="2863000" />
       <workItem from="1604218656993" duration="11667000" />
       <workItem from="1604427363627" duration="5544000" />
+      <workItem from="1604563811917" duration="6118000" />
     </task>
     <servers />
   </component>
@@ -145,25 +156,33 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826@0.0.1536.826" timestamp="1604176745489" />
+    <state x="808" y="-671" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1604564455889">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="808" y="-671" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1604564455889" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604220534669">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1604220534669" />
-    <state width="1492" height="173" key="GridCell.Tab.0.bottom" timestamp="1604432873217">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604574588961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604574588961" />
     <state width="1492" height="173" key="GridCell.Tab.0.bottom/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
-    <state width="1492" height="173" key="GridCell.Tab.0.center" timestamp="1604432873217">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604574588961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604574588961" />
     <state width="1492" height="173" key="GridCell.Tab.0.center/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
-    <state width="1492" height="173" key="GridCell.Tab.0.left" timestamp="1604432873217">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604574588961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604574588961" />
     <state width="1492" height="173" key="GridCell.Tab.0.left/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
-    <state width="1492" height="173" key="GridCell.Tab.0.right" timestamp="1604432873217">
-      <screen x="0" y="0" width="1536" height="826" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604574588961">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604574588961" />
     <state width="1492" height="173" key="GridCell.Tab.0.right/0.0.1536.826@0.0.1536.826" timestamp="1604432873217" />
     <state width="1492" height="256" key="GridCell.Tab.1.bottom" timestamp="1604225027175">
       <screen x="0" y="0" width="1536" height="826" />
@@ -181,6 +200,10 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state width="1492" height="256" key="GridCell.Tab.1.right/0.0.1536.826@0.0.1536.826" timestamp="1604225027175" />
+    <state x="461" y="-918" key="SettingsEditor" timestamp="1604564493582">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="461" y="-918" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1604564493582" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1604427367492">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
