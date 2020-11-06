@@ -16,10 +16,50 @@ public class BankAccount {
     boolean withdraw(double amount) throws InterruptedException {
         if (lock.tryLock()) {
             Thread.sleep(1000);
-            balance =  subtract.apply(balance, amount);
+            balance = subtract.apply(balance, amount);
             lock.unlock();
             return true;
         }
         return false;
+    }
+
+    boolean deposit(double amount) throws InterruptedException {
+        if (lock.tryLock()) {
+            Thread.sleep(1000);
+            balance = add.apply(balance, amount);
+            lock.unlock();
+            return true;
+        }
+        return false;
+    }
+
+    boolean transfer(BankAccount to, double amount) throws InterruptedException {
+        if (withdraw(amount)) {
+            System.out.println("Withdrawing amount: " + amount + " from: " + accountName);
+            if (to.deposit(amount)) {
+                System.out.println("Depositing amount:" + amount + " to: " + to.accountName);
+                return true;
+            } else {
+                System.out.println("Failed to acquire both locks: refunding " + amount + " to: " + accountName);
+                while (!deposit(amount))
+                    continue;
+            }
+        }
+        return false;
+    }
+
+    public BankAccount(int id, double balance, String accountName) {
+        this.id = id;
+        this.balance = balance;
+        this.accountName = accountName;
+    }
+
+    @Override
+    public String toString() {
+        return "BankAccount{" +
+                "id=" + id +
+                ", balance=" + balance +
+                ", accountName='" + accountName + '\'' +
+                '}';
     }
 }
